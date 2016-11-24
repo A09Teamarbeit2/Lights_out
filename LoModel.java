@@ -74,7 +74,4 @@ public class LoModel {
 	public ArrayList<Boolean> getI() {
 		return I;
 	}
-	public boolean win(){
-		
-	}
 }
